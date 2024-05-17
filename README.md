@@ -1,2 +1,2 @@
 # Proyecto-prueba
-Proyecto de prueba y ejercitacion
+Proyecto de prueba y ejercitacion de lo aprendido
